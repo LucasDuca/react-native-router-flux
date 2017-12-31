@@ -58,6 +58,9 @@ yarn
 
 # Run it
 react-native run-ios
+
+#or use
+npm i install react-native-router-flux --save
 ```
 
 ## v4 Features
